@@ -55,13 +55,15 @@ export async function generateMetadata({ params }) {
       description: descriptions[locale] || descriptions.en,
       siteName: 'Palestine Awareness',
       locale: ogLocales[locale] || 'en_US',
-      images: [{ url: '/og-image.png', width: 1200, height: 630, alt: 'Palestine — Land, History, and Resistance' }],
+      images: [{ url: `${baseUrl}/og-image.png`, width: 1200, height: 630, alt: 'Palestine — Land, History, and Resistance' }],
     },
     twitter: {
       card: 'summary_large_image',
       title: titles[locale] || titles.en,
       description: descriptions[locale] || descriptions.en,
-      images: ['/og-image.png'],
+      images: [`${baseUrl}/og-image.png`],
+      site: '@sejeddev',
+      creator: '@sejeddev',
     },
     icons: {
       icon: [

@@ -1,7 +1,7 @@
 export default function sitemap() {
   const baseUrl = 'https://palestine.sejed.dev';
   const locales = ['en', 'ar', 'fr', 'he'];
-  const lastMod = new Date();
+  const lastMod = new Date('2026-06-15');
 
   const pages = [
     { path: '', priority: 1.0, changefreq: 'weekly' },
@@ -21,6 +21,7 @@ export default function sitemap() {
     { path: '/map', priority: 0.7, changefreq: 'monthly' },
     { path: '/sources', priority: 0.7, changefreq: 'weekly' },
     { path: '/search', priority: 0.6, changefreq: 'monthly' },
+    { path: '/references', priority: 0.7, changefreq: 'monthly' },
   ];
 
   return locales.flatMap((locale) =>

@@ -1,7 +1,18 @@
 'use client';
+import { useEffect, useState } from 'react';
 import Link from 'next/link';
 
 export default function NotFound() {
+  const [homeHref, setHomeHref] = useState('/en');
+
+  useEffect(() => {
+    const path = window.location.pathname;
+    const locale = path.split('/')[1];
+    if (locale && ['en', 'ar', 'fr', 'he'].includes(locale)) {
+      setHomeHref(`/${locale}`);
+    }
+  }, []);
+
   return (
     <div style={{
       display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center',
@@ -18,7 +29,7 @@ export default function NotFound() {
       </span>
       <h1 style={{ fontSize: '1.5rem', fontWeight: 600, color: 'var(--text)' }}>Page not found</h1>
       <p style={{ color: 'var(--text-secondary)', marginBottom: 8 }}>This page does not exist or has been moved.</p>
-      <Link href="/en"
+      <Link href={homeHref}
         style={{
           display: 'inline-flex', alignItems: 'center', justifyContent: 'center', gap: 8,
           padding: '14px 32px', borderRadius: 9999, fontSize: '.9rem', fontWeight: 600,

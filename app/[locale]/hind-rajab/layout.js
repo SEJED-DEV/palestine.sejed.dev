@@ -16,10 +16,19 @@ export async function generateMetadata({ params }) {
   return {
     title: titles[locale] || titles.en,
     description: descs[locale] || descs.en,
-    alternates: { canonical: `${baseUrl}/${locale}/hind-rajab` },
+    alternates: {
+      canonical: `${baseUrl}/${locale}/hind-rajab`,
+      languages: {
+        en: `${baseUrl}/en/hind-rajab`,
+        ar: `${baseUrl}/ar/hind-rajab`,
+        fr: `${baseUrl}/fr/hind-rajab`,
+        he: `${baseUrl}/he/hind-rajab`,
+      },
+    },
     openGraph: {
       title: titles[locale] || titles.en,
       description: descs[locale] || descs.en,
+      url: `${baseUrl}/${locale}/hind-rajab`,
     },
   };
 }

@@ -16,7 +16,15 @@ export async function generateMetadata({ params }) {
   return {
     title: titles[locale] || titles.en,
     description: descriptions[locale] || descriptions.en,
-    alternates: { canonical: `${baseUrl}/${locale}/timeline` },
+    alternates: {
+      canonical: `${baseUrl}/${locale}/timeline`,
+      languages: {
+        en: `${baseUrl}/en/timeline`,
+        ar: `${baseUrl}/ar/timeline`,
+        fr: `${baseUrl}/fr/timeline`,
+        he: `${baseUrl}/he/timeline`,
+      },
+    },
     openGraph: {
       title: titles[locale] || titles.en,
       description: descriptions[locale] || descriptions.en,
