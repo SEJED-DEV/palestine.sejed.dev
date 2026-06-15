@@ -1,0 +1,13 @@
+{
+  "name": "Palestine Awareness",
+  "short_name": "Palestine",
+  "description": "Educational resource about Palestine: its ancient history, rich culture, and ongoing struggle for justice and freedom.",
+  "start_url": "/en",
+  "display": "standalone",
+  "background_color": "#07070d",
+  "theme_color": "#e4312b",
+  "icons": [
+    { "src": "/icon.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/apple-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}

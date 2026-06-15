@@ -1,0 +1,1054 @@
+{
+  "site": {
+    "title": "Palestine — Terre, Histoire et Résistance",
+    "description": "Découvrez la Palestine : son histoire ancienne, sa riche culture et la lutte continue pour la justice et la liberté.",
+    "tagline": "Apprends. Comprends. Agis."
+  },
+  "nav": {
+    "home": "Accueil",
+    "history": "Histoire",
+    "culture": "Culture",
+    "gaza": "Gaza",
+    "jericho": "Jéricho",
+    "refugees": "Réfugiés",
+    "activism": "Agir",
+    "voices": "Voix",
+    "boycott": "Boycott",
+    "hindRajab": "Hind Rajab",
+    "sources": "Actualités",
+    "gazaFilms": "Films sur Gaza",
+    "search": "Recherche",
+    "learn": "Apprendre",
+    "alQuds": "Al Qods",
+    "timeline": "Chronologie",
+    "figures": "Personnalités",
+    "act": "Agir",
+    "language": "Langue"
+  },
+  "home": {
+    "hero": {
+      "title": "Palestine",
+      "subtitle": "Une terre d'histoire ancienne, de culture durable et d'esprit indomptable.",
+      "cta": "Explorer l'Histoire",
+      "ctaSecondary": "Lire les Témoignages",
+      "tagline": "apprendre · comprendre · agir"
+    },
+    "stats": {
+      "years": "78",
+      "yearsLabel": "Ans Depuis la Nakba",
+      "refugees": "6M+",
+      "refugeesLabel": "Réfugiés (UNRWA)",
+      "villages": "530+",
+      "villagesLabel": "Villages Dépeuplés (1948)",
+      "children": "13 000+",
+      "childrenLabel": "Enfants Détenus Depuis 2000"
+    },
+    "sections": {
+      "history": {
+        "title": "Histoire",
+        "desc": "De l'ancien Canaan à la Nakba, de l'occupation à la résistance — retracez la chronologie complète."
+      },
+      "culture": {
+        "title": "Culture",
+        "desc": "Poésie, broderie, cuisine, musique et le patrimoine vibrant du peuple palestinien."
+      },
+      "activism": {
+        "title": "Agir",
+        "desc": "Organisations vérifiées, ressources BDS et moyens concrets de faire la différence."
+      },
+      "voices": {
+        "title": "Voix",
+        "desc": "Témoignages, poésie et histoires qui humanisent l'expérience palestinienne."
+      },
+      "gaza": {
+        "title": "Gaza",
+        "desc": "A besieged enclave with a deep history — from ancient trade routes to modern resistance."
+      },
+      "jericho": {
+        "title": "Jericho",
+        "desc": "One of the world's oldest continuously inhabited cities, with 10,000 years of history."
+      },
+      "refugees": {
+        "title": "Réfugiés",
+        "desc": "The story of 6 million refugees and the ongoing struggle for the right of return."
+      },
+      "alQuds": {
+        "title": "Al Qods",
+        "desc": "The spiritual heart of Palestine, sacred to three faiths, at the center of the struggle."
+      },
+      "timeline": {
+        "title": "Chronologie",
+        "desc": "A unified chronological view of Palestinian history spanning millennia."
+      },
+      "figures": {
+        "title": "Personnalités",
+        "desc": "Notable Palestinians who shaped history, culture, and resistance."
+      },
+      "boycott": {
+        "title": "Boycott",
+        "desc": "Companies profiting from the occupation — and how you can apply pressure through divestment."
+      },
+      "hindRajab": {
+        "title": "Hind Rajab",
+        "desc": "The story of a six-year-old girl killed in Gaza — and the film that ensures the world remembers."
+      }
+    }
+  },
+  "history": {
+    "label": "comprendre l'histoire",
+    "title": "Histoire & Chronologie",
+    "subtitle": "Les événements clés qui ont façonné la Palestine, de l'ère ottomane à nos jours.",
+    "readMore": "Lire la suite",
+    "showLess": "Afficher moins",
+    "events": [
+      {
+        "year": "c. 3000 AEC",
+        "title": "Période Cananéenne",
+        "desc": "Les premiers habitants connus de la Palestine étaient les Cananéens, un peuple de langue sémitique qui établit un réseau de cités-États dans la région dès le 4e millénaire AEC. Les Cananéens développèrent des civilisations urbaines avancées, avec des villes comme Jéricho — l'une des plus anciennes villes continuellement habitées au monde — et Megiddo. Ils commerçaient intensément avec l'Égypte, la Mésopotamie et le monde égéen. Le nom 'Palestine' lui-même dérive de 'Philistia,' le terme grec pour la terre des Philistins, qui s'installèrent le long de la plaine côtière vers 1200 AEC. La culture, la langue et la religion cananéennes influencèrent profondément toutes les civilisations ultérieures de la région, laissant un héritage durable dans la terre aujourd'hui connue sous le nom de Palestine.",
+        "sources": [
+          {
+            "name": "Britannica",
+            "url": "https://www.britannica.com/place/Canaan-historical-region-Middle-East"
+          },
+          {
+            "name": "World History Encyclopedia",
+            "url": "https://www.worldhistory.org/palestine/"
+          }
+        ]
+      },
+      {
+        "year": "63 AEC – 636 EC",
+        "title": "Période Romaine et Byzantine",
+        "desc": "La domination romaine commença en 63 AEC lorsque Pompée annexa la région à la République romaine. Cette période fut marquée par les guerres judéo-romaines, dont la Grande Révolte (66–70 EC) qui aboutit à la destruction du Second Temple, et la révolte de Bar Kokhba (132–136 EC), après laquelle l'empereur Hadrien rebaptisa la province Syria Palaestina et construisit Aelia Capitolina sur les ruines de Jérusalem. Sous la domination chrétienne byzantine à partir du 4e siècle, la Palestine devint un centre majeur de pèlerinage chrétien, avec la construction de l'église du Saint-Sépulcre et des centaines de complexes monastiques à travers la région. La période byzantine connut un épanouissement de l'architecture religieuse, de l'art de la mosaïque et de la théologie qui façonna le christianisme oriental et occidental.",
+        "sources": [
+          {
+            "name": "Britannica",
+            "url": "https://www.britannica.com/place/Palestine/Roman-Palestine"
+          },
+          {
+            "name": "UNESCO",
+            "url": "https://whc.unesco.org/en/list/148"
+          }
+        ]
+      },
+      {
+        "year": "636 EC",
+        "title": "Conquête Islamique",
+        "desc": "En 636 EC, les forces musulmanes sous le calife Omar ibn al-Khattab vainquirent décisivement l'armée byzantine à la bataille du Yarmouk, plaçant la Palestine sous domination islamique. La conquête fut remarquablement rapide, les populations locales étant généralement autorisées à continuer leurs pratiques religieuses sous la gouvernance islamique. Jérusalem se rendit pacifiquement en 638 EC, le calife Omar garantissant personnellement la sécurité de ses habitants chrétiens et juifs. Sous la dynastie omeyyade, le caractère islamique de la Palestine fut établi de façon permanente avec la construction du Dôme du Rocher (691 EC) et de la mosquée Al-Aqsa (705 EC) sur le Haram al-Sharif à Jérusalem, faisant de la ville le troisième lieu saint de l'islam. L'arabe remplaça progressivement le grec et l'araméen comme langue dominante.",
+        "sources": [
+          {
+            "name": "Britannica",
+            "url": "https://www.britannica.com/place/Palestine/Roman-Palestine"
+          },
+          {
+            "name": "Metropolitan Museum of Art",
+            "url": "https://www.metmuseum.org/toah/ht/06/wam.html"
+          }
+        ]
+      },
+      {
+        "year": "1099–1187",
+        "title": "Période des Croisades",
+        "desc": "En 1099, les Croisés européens capturèrent Jérusalem lors d'un siège sanglant, massacrant des milliers d'habitants musulmans et juifs et établissant le Royaume de Jérusalem. Les Croisés construisirent des fortifications massives, des châteaux et des églises à travers la Palestine, dont le célèbre Krak des Chevaliers. La résistance musulmane fut menée par Salah ad-Din (Saladin), qui unifia les forces musulmanes sous la dynastie ayyoubide et reprit Jérusalem en 1187 après la bataille décisive de Hattin. Contrairement aux Croisés, Saladin fit preuve d'une clémence remarquable, permettant aux habitants chrétiens de partir pacifiquement. La période ayyoubide qui suivit vit la restauration des institutions islamiques, bien que la présence croisée persista dans les enclaves côtières pendant encore un siècle.",
+        "sources": [
+          {
+            "name": "Britannica",
+            "url": "https://www.britannica.com/event/Crusades"
+          },
+          {
+            "name": "World History Encyclopedia",
+            "url": "https://www.worldhistory.org/Crusades/"
+          }
+        ]
+      },
+      {
+        "year": "1250–1516",
+        "title": "Période Mamelouke",
+        "desc": "Le sultanat mamelouk, basé au Caire, contrôla la Palestine de 1250 à 1516. Les Mamelouks — une caste militaire d'esclaves-soldats,多く d'origine turque et circassienne — vainquirent à la fois les derniers États croisés et l'Ilkhanat mongol, assurant la domination musulmane sur le Levant. Sous le patronage mamelouk, la Palestine connut un renouveau de l'architecture et de la culture islamiques. Ils construisirent et restaurèrent de nombreuses mosquées, madrasas et caravansérails, et fortifièrent les villes côtières contre d'éventuelles invasions croisées. La période vit le développement d'un réseau commercial florissant reliant la Palestine au monde islamique, et l'épanouissement de la littérature et de l'historiographie arabes dans des villes comme Jérusalem, Hébron, Gaza et Naplouse.",
+        "sources": [
+          {
+            "name": "Britannica",
+            "url": "https://www.britannica.com/topic/Mamluk"
+          },
+          {
+            "name": "World History Encyclopedia",
+            "url": "https://www.worldhistory.org/Mamluk_Sultanate/"
+          }
+        ]
+      },
+      {
+        "year": "1516–1917",
+        "title": "Domination Ottomane",
+        "desc": "La Palestine faisait partie de l'Empire ottoman pendant 400 ans. La région abritait une population diverse de musulmans, chrétiens et juifs vivant ensemble.",
+        "sources": [
+          {
+            "name": "Britannica",
+            "url": "https://www.britannica.com/place/Palestine/Ottoman-rule"
+          }
+        ]
+      },
+      {
+        "year": "1917",
+        "title": "Déclaration Balfour",
+        "desc": "Le gouvernement britannique a émis la Déclaration Balfour, promettant un 'foyer national pour le peuple juif' en Palestine, ignorant les droits de la population palestinienne indigène qui constituait 90 % de la population.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/features/2018/11/2/the-balfour-declaration-explained"
+          }
+        ]
+      },
+      {
+        "year": "1936–39",
+        "title": "Révolte Arabe",
+        "desc": "La Révolte arabe de 1936–39 fut un soulèvement palestinien soutenu contre le régime colonial britannique et la colonisation sioniste accélérée de la Palestine. Déclenchée par l'assassinat du leader populaire Cheikh Izz ad-Din al-Qassam par les forces britanniques en 1935, la révolte débuta par une grève générale de six mois en 1936, suivie d'une insurrection armée. Les Britanniques déployèrent plus de 20 000 soldats — appuyés par des bombardements aériens, des démolitions de maisons et des punitions collectives — pour écraser la rébellion. La révolte entraîna la mort d'environ 5 000 Palestiniens, l'exécution de 108 combattants et la destruction de plus de 2 000 maisons. Malgré sa répression brutale, la révolte forgea une conscience nationale palestinienne distincte et conduisit à la Commission Peel, qui proposa pour la première fois le partage de la Palestine.",
+        "sources": [
+          {
+            "name": "Britannica",
+            "url": "https://www.britannica.com/event/1936-1939-Arab-Revolt-in-Palestine"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2003/12/9/the-history-of-palestinian-revolts"
+          }
+        ]
+      },
+      {
+        "year": "1947",
+        "title": "Plan de Partage de l'ONU (Résolution 181)",
+        "desc": "Le 29 novembre 1947, l'Assemblée générale des Nations unies adopta la Résolution 181, recommandant le partage de la Palestine en États juif et arabe distincts, Jérusalem étant placée sous contrôle international. Le plan attribuait 56 % des terres de Palestine au futur État juif, alors que les Juifs ne constituaient que 33 % de la population et possédaient moins de 7 % des terres. Les Arabes palestiniens et les États arabes voisins rejetèrent le plan comme fondamentalement injuste et une violation du principe d'autodétermination. L'Agence juive accepta le plan, y voyant un fondement légal pour la création d'un État. L'adoption de la Résolution 181 déclencha des violences immédiates qui conduisirent à la Nakba — le déplacement massif du peuple palestinien.",
+        "sources": [
+          {
+            "name": "Britannica",
+            "url": "https://www.britannica.com/topic/United-Nations-Resolution-181"
+          },
+          {
+            "name": "UN",
+            "url": "https://www.un.org/unispal/document/auto-insert-202148/"
+          }
+        ]
+      },
+      {
+        "year": "1948",
+        "title": "La Nakba ('Catastrophe')",
+        "desc": "Plus de 750 000 Palestiniens ont été expulsés de force ou ont fui leurs foyers. Plus de 530 villages ont été détruits. Cette catastrophe a créé la plus grande crise de réfugiés en cours dans le monde. Les familles conservent toujours les clés de leurs maisons ancestrales, les transmettant de génération en génération comme symboles de leur droit au retour.",
+        "sources": [
+          {
+            "name": "UNRWA",
+            "url": "https://www.unrwa.org/palestine-refugees"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/features/2017/5/23/the-nakba-60-years-of-palestinian-dispossession"
+          }
+        ]
+      },
+      {
+        "year": "1967",
+        "title": "La Naksa & L'Occupation",
+        "desc": "Israël a occupé la Cisjordanie, la bande de Gaza, Jérusalem-Est, le Golan et le Sinaï. L'occupation militaire des territoires palestiniens qui se poursuit encore aujourd'hui a commencé, en violation de multiples résolutions de l'ONU.",
+        "sources": [
+          {
+            "name": "UN",
+            "url": "https://www.un.org/unispal/document/auto-insert-208291/"
+          }
+        ]
+      },
+      {
+        "year": "1974",
+        "title": "L'OLP Reconnue à l'ONU",
+        "desc": "Le 13 novembre 1974, Yasser Arafat, président de l'Organisation de libération de la Palestine, prononça un discours historique devant l'Assemblée générale des Nations unies à New York. Dans son discours emblématique, Arafat déclara : 'Je suis venu porteur d'un rameau d'olivier et d'un fusil de combattant. Ne laissez pas tomber le rameau d'olivier de ma main.' Le 22 novembre 1974, l'Assemblée générale adopta la Résolution 3237 (XXIX), accordant à l'OLP le statut d'observateur aux Nations unies. Cette réalisation diplomatique historique reconnut l'OLP comme le représentant légitime du peuple palestinien sur la scène mondiale. La résolution ouvrit la voie à une participation palestinienne plus large dans les forums internationaux et marqua un tournant dans la légitimité internationale du mouvement national palestinien.",
+        "sources": [
+          {
+            "name": "UN",
+            "url": "https://www.un.org/unispal/document/auto-insert-203949/"
+          },
+          {
+            "name": "Time",
+            "url": "https://time.com/archive/6876163/middle-east-guns-and-olive-branches"
+          }
+        ]
+      },
+      {
+        "year": "1987",
+        "title": "Première Intifada",
+        "desc": "Un soulèvement palestinien généralisé contre l'occupation, caractérisé par la désobéissance civile, les grèves et la résistance populaire. L'Intifada a attiré l'attention internationale sur la cause palestinienne.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/features/2023/12/8/the-first-intifada-a-30-year-legacy"
+          }
+        ]
+      },
+      {
+        "year": "1993",
+        "title": "Accords d'Oslo",
+        "desc": "Les Accords d'Oslo ont établi l'Autorité palestinienne et créé les zones A, B et C en Cisjordanie. Cependant, le processus de paix n'a pas abouti à un État palestinien viable et l'expansion des colonies s'est accélérée.",
+        "sources": [
+          {
+            "name": "HRW",
+            "url": "https://www.hrw.org/report/2021/04/27/a-threshold-crossed/israeli-settlements-and-international-law"
+          }
+        ]
+      },
+      {
+        "year": "2000",
+        "title": "Seconde Intifada",
+        "desc": "Une période de conflit intensifié après l'effondrement des pourparlers de paix. L'armée israélienne a réoccupé les villes palestiniennes et la construction du mur de séparation a commencé.",
+        "sources": [
+          {
+            "name": "Britannica",
+            "url": "https://www.britannica.com/event/second-intifada"
+          }
+        ]
+      },
+      {
+        "year": "2002",
+        "title": "Mur de Séparation",
+        "desc": "Israël a commencé la construction d'un mur de plus de 700 km à travers la Cisjordanie, déclaré illégal par la Cour internationale de Justice en 2004. Le mur annexe des terres palestiniennes et fragmente les communautés, séparant les agriculteurs de leurs champs.",
+        "sources": [
+          {
+            "name": "ICJ",
+            "url": "https://www.icj-cij.org/advisory-opinions/legal-consequences-construction-wall-occupied-palestinian-territory"
+          }
+        ]
+      },
+      {
+        "year": "2006",
+        "title": "Élections Palestiniennes et Siège de Gaza",
+        "desc": "Le 25 janvier 2006, les Palestiniens organisèrent des élections législatives démocratiques, les secondes depuis la création de l'Autorité palestinienne. Le Hamas, sur une plateforme de réforme et de lutte contre la corruption, remporta une majorité décisive avec 74 des 132 sièges, battant le parti Fatah longtemps dominant. Les résultats, acceptés par les observateurs internationaux comme libres et équitables, furent immédiatement rejetés par Israël, les États-Unis et l'Union européenne, qui imposèrent des sanctions économiques sévères et un isolement politique au gouvernement du Hamas. En réponse, Israël intensifia son blocus de Gaza après la prise de contrôle du territoire par le Hamas en juin 2007. Le siège — décrit par l'ONU comme une 'prison à ciel ouvert' — paralysa l'économie de Gaza et creusa une profonde division politique palestinienne.",
+        "sources": [
+          {
+            "name": "BBC",
+            "url": "http://news.bbc.co.uk/2/hi/middle_east/4650788.stm"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2006/1/26/hamas-wins-huge-majority"
+          }
+        ]
+      },
+      {
+        "year": "2007",
+        "title": "Blocus de Gaza",
+        "desc": "Un blocus terrestre, aérien et maritime complet a été imposé à Gaza, décrit par l'ONU comme une 'prison à ciel ouvert'. Le blocus a dévasté l'économie et les infrastructures de Gaza.",
+        "sources": [
+          {
+            "name": "UN",
+            "url": "https://www.un.org/unispal/document/gaza-blockade-ohchr-factsheet-eng/"
+          }
+        ]
+      },
+      {
+        "year": "2018",
+        "title": "Grande Marche du Retour",
+        "desc": "Des manifestations pacifiques hebdomadaires exigeant le droit au retour des réfugiés et la fin du blocus. Des milliers ont été blessés et des centaines tués par les forces israéliennes, y compris des médecins, des journalistes et des enfants.",
+        "sources": [
+          {
+            "name": "Amnesty",
+            "url": "https://www.amnesty.org/en/latest/news/2019/03/gaza-great-march-of-return-one-year-on/"
+          }
+        ]
+      },
+      {
+        "year": "2021",
+        "title": "Cheikh Jarrah et l'Intifada de l'Unité",
+        "desc": "En mai 2021, les ordres d'expulsion forcée contre six familles palestiniennes du quartier de Cheikh Jarrah à Jérusalem-Est occupé déclenchèrent des manifestations massives à travers la Palestine et dans le monde entier. Les expulsions, poursuivies par des organisations de colons israéliens en vertu d'une loi contestée de 1970, devinrent un puissant symbole de la lutte palestinienne pour la justice. Les manifestations se répandirent rapidement dans toutes les communautés palestiniennes — de Jérusalem et de la Cisjordanie à Gaza et aux villes palestiniennes d'Israël — dans ce qui fut largement appelé l''Intifada de l'Unité.' L'assaut militaire israélien de 11 jours sur Gaza qui s'ensuivit tua plus de 250 Palestiniens, dont 66 enfants. Ce soulèvement marqua un moment historique d'action palestinienne unifiée à travers toutes les divisions géographiques et politiques depuis 1948.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/news/2021/5/11/sheikh-jarrah-residents-speak-out-on-israels-forced-expulsions"
+          },
+          {
+            "name": "HRW",
+            "url": "https://www.hrw.org/news/2021/5/4/israel-palestinians-evictions-sheikh-jarrah"
+          }
+        ]
+      },
+      {
+        "year": "2023",
+        "title": "Guerre de Gaza & Affaire de Génocide",
+        "desc": "Après les attaques du 7 octobre, Israël a lancé une campagne militaire dévastatrice sur Gaza, tuant plus de 40 000 Palestiniens, déplaçant 1,9 million de personnes et détruisant 70 % des maisons. L'Afrique du Sud a déposé une plainte pour génocide devant la Cour internationale de Justice.",
+        "sources": [
+          {
+            "name": "ICJ",
+            "url": "https://www.icj-cij.org/case/192"
+          },
+          {
+            "name": "OCHA",
+            "url": "https://www.ochaopt.org/"
+          }
+        ]
+      },
+      {
+        "year": "Aujourd'hui",
+        "title": "Résistance Continue",
+        "desc": "Malgré des difficultés immenses, le peuple palestinien poursuit sa lutte pour la liberté, la justice et l'autodétermination à travers le sumud (résistance), la préservation culturelle et le plaidoyer international.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/features/2023/11/28/sumud-the-palestinian-philosophy-of-steadfastness"
+          }
+        ]
+      }
+    ]
+  },
+  "culture": {
+    "title": "Culture & Patrimoine",
+    "subtitle": "La riche tapisserie culturelle de la Palestine — poésie, cuisine, art et traditions qui ont perduré pendant des millénaires.",
+    "items": [
+      {
+        "id": "poetry",
+        "title": "Poésie & Littérature",
+        "emoji": "📖",
+        "short": "La littérature palestinienne, menée par Mahmoud Darwich et Ghassan Kanafani, a façonné la conscience mondiale.",
+        "content": "La poésie et la littérature palestiniennes représentent l'une des formes les plus puissantes de résistance et de préservation culturelle. Mahmoud Darwich, le poète national palestinien, a écrit : 'Nous avons sur cette terre ce qui rend la vie digne d'être vécue.' Ses œuvres, traduites dans plus de 20 langues, sont devenues des hymnes de l'identité palestinienne.\n\nGhassan Kanafani, romancier et activiste de premier plan, a écrit des œuvres majeures comme 'Les Hommes sous le Soleil' et 'Retour à Haïfa'. Ses histoires capturent le profond traumatisme du déplacement et l'espoir inébranlable du retour. Kanafani a été assassiné par une voiture piégée en 1972.\n\nD'autres voix éminentes incluent Fadwa Tuqan, Mourid Barghouti et Edward Said, dont le livre 'La Question de Palestine' reste un texte fondateur.",
+        "sources": [
+          {
+            "name": "Poetry Foundation",
+            "url": "https://www.poetryfoundation.org/poets/mahmoud-darwish"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/features/2018/7/9/ghassan-kanafani-the-palestinian-novelist-who-dared-to-dream"
+          }
+        ]
+      },
+      {
+        "id": "cuisine",
+        "title": "Cuisine Palestinienne",
+        "emoji": "🍽️",
+        "short": "Du musakhan au maqluba, la cuisine palestinienne célèbre la terre, l'hospitalité et l'identité culturelle.",
+        "content": "La cuisine palestinienne est un reflet vibrant de la générosité agricole de la terre. Les plats emblématiques incluent le musakhan, le maqluba, la knafeh et le mansaf. L'huile d'olive, le za'atar et le freekeh sont des ingrédients fondamentaux. Cuisiner est devenu une forme de résistance — préserver les recettes transmises de génération en génération et garder vivante la mémoire de la patrie en exil.",
+        "sources": [
+          {
+            "name": "UNESCO",
+            "url": "https://ich.unesco.org/en/state/state-ps"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/features/2021/9/29/palestinian-food-is-nonviolent-resistance"
+          }
+        ]
+      },
+      {
+        "id": "tatreez",
+        "title": "Broderie Tatreez",
+        "emoji": "🪡",
+        "short": "Plus qu'une décoration, le Tatreez est un langage visuel où chaque point raconte une histoire d'origine et d'identité.",
+        "content": "Le Tatreez est l'art traditionnel palestinien de la broderie au point de croix. Chaque région a ses motifs, couleurs et motifs distinctifs. Aujourd'hui, le Tatreez connaît un renouveau mondial, symbole célébré de l'identité nationale et de la résistance culturelle.",
+        "sources": [
+          {
+            "name": "UNESCO",
+            "url": "https://ich.unesco.org/en/USL/palestinian-embroidery-tatreez-02034"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/features/2021/6/15/tatreez-palestinian-embroidery-more-than-just-stitches"
+          }
+        ]
+      },
+      {
+        "id": "keffiyeh",
+        "title": "Le Keffieh",
+        "emoji": "🧣",
+        "short": "Le foulard à carreaux est devenu le symbole le plus reconnu de la solidarité palestinienne dans le monde.",
+        "content": "Le keffieh, particulièrement le motif à carreaux noirs et blancs, est le symbole le plus reconnaissable de l'identité palestinienne. Porter le keffieh aujourd'hui est un geste mondial de solidarité, représentant la lutte persistante pour la liberté, la justice et les droits humains.",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/features/2023/11/21/keffiyeh-palestinian-symbol"
+          },
+          {
+            "name": "The Guardian",
+            "url": "https://www.theguardian.com/fashion/2023/nov/20/the-keffiyeh-explained"
+          }
+        ]
+      },
+      {
+        "id": "dabke",
+        "title": "Dabke — Danse d'Unité",
+        "emoji": "💃",
+        "short": "La danse folklorique relie les générations, transformant le folklore en une déclaration vibrante de fierté culturelle.",
+        "content": "Le dabke est une danse folklorique traditionnelle où les danseurs se donnent le bras en ligne, frappant le sol en rythme. Chaque région a ses pas distincts. Dans les camps de réfugiés, enseigner le dabke aux jeunes préserve le folklore et renforce l'identité.",
+        "sources": [
+          {
+            "name": "Palestinian Museum",
+            "url": "https://www.palmuseum.org/"
+          }
+        ]
+      },
+      {
+        "id": "olive-trees",
+        "title": "Oliviers Anciens",
+        "emoji": "🌿",
+        "short": "Certains oliviers en Palestine ont plus de 4 000 ans, témoins vivants de l'histoire et de racines indéracinables.",
+        "content": "Pour les Palestiniens, l'olivier est le symbole ultime de l'endurance. Certains arbres, comme l'arbre Al-Badawi à Bethléem, ont entre 4 000 et 5 000 ans. Protéger ces oliveraies ancestrales du déracinement est une lutte quotidienne et un acte puissant de sumud.",
+        "sources": [
+          {
+            "name": "UN",
+            "url": "https://www.un.org/unispal/document/auto-insert-210168/"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/features/2023/10/20/palestinian-olive-harvest-under-occupation"
+          }
+        ]
+      },
+      {
+        "id": "al-aqsa",
+        "title": "Mosquée Al-Aqsa",
+        "emoji": "🕌",
+        "short": "Le troisième site le plus saint de l'Islam se trouve au cœur de Jérusalem, symbole de la foi et de la souveraineté palestinienne.",
+        "content": "La mosquée Al-Aqsa, dans la vieille ville de Jérusalem, est le troisième site le plus saint de l'Islam. Pour les Palestiniens, Al-Aqsa n'est pas seulement un site religieux — il représente le cœur de l'identité nationale et culturelle.",
+        "sources": [
+          {
+            "name": "UNESCO",
+            "url": "https://whc.unesco.org/en/list/148"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/features/2023/4/4/al-aqsa-explained"
+          }
+        ]
+      },
+      {
+        "id": "music",
+        "title": "Musique & Folklore",
+        "emoji": "🎵",
+        "short": "La musique palestinienne, de Fairouz aux rappeurs contemporains, porte les histoires, la peine et la joie d'un peuple.",
+        "content": "La musique palestinienne s'étend sur des siècles de tradition et d'innovation moderne. Des artistes contemporains comme DAM, Mohammed Assaf et Rasha Nahhas utilisent la musique pour amplifier les voix palestiniennes à l'échelle mondiale.",
+        "sources": [
+          {
+            "name": "El-Funoun",
+            "url": "https://www.elfunoun.org/"
+          },
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/features/2017/6/15/the-story-of-dam-palestinian-hip-hop-pioneers"
+          }
+        ]
+      },
+      {
+        "id": "architecture",
+        "title": "Architecture Traditionnelle",
+        "emoji": "🏛️",
+        "short": "Des toits en dôme aux fenêtres cintrées en passant par les cours centrales, l'architecture palestinienne reflète des siècles d'héritage façonnés par la terre et le climat.",
+        "content": "L'architecture palestinienne traditionnelle incarne une compréhension profonde de l'environnement et de l'esthétique. Les toits en dôme emblématiques, les murs en pierre épaisse et les fenêtres cintrées étaient conçus pour l'isolation naturelle — gardant les maisons fraîches en été et chaudes en hiver. Les cours centrales plantées de citronniers et de jasmins étaient le cœur de la vie familiale.\n\nDans la vieille ville de Jérusalem, ce patrimoine fait face à des menaces existentielles des colonies illégales et du mur de séparation. Les efforts de restauration dans des villes comme Hébron et Naplouse travaillent à la préservation des bâtiments traditionnels.\n\nRiwaq, un centre palestinien de conservation architecturale fondé en 1991, a documenté et restauré des centaines de bâtiments historiques en Cisjordanie. Les frères Anastas à Jéricho ont pionné l'architecture contemporaine en pierre qui réinvente les techniques de construction traditionnelles.",
+        "sources": [
+          { "name": "Riwaq", "url": "https://www.riwaq.org/" },
+          { "name": "Al Jazeera", "url": "https://www.aljazeera.com/features/2017/8/25/the-architectural-language-of-stone-in-jericho" }
+        ]
+      },
+      {
+        "id": "coffee",
+        "title": "Café Arabe & Hospitalité",
+        "emoji": "☕",
+        "short": "Bien plus qu'une boisson, le café arabe (qahwah) est un rituel sacré de générosité et de respect au cœur de l'hospitalité palestinienne.",
+        "content": "Le café arabe (qahwah) est bien plus qu'une boisson dans la culture palestinienne — c'est un rituel profondément honoré d'hospitalité. Le café est légèrement torréfié, moulu en poudre fine et infusé avec de la cardamome et parfois du safran ou des clous de girofle. Il est servi dans une petite tasse sans anse appelée finjan.\n\nLe rituel suit une étiquette stricte : l'hôte verse de la main gauche, servant l'aîné ou l'invité d'honneur en premier. La tasse n'est remplie qu'au tiers — l'invité boit et secoue doucement la tasse quand il a fini. Refuser du café est considéré impoli. Le dicton dit : 'Une tasse de café crée un lien d'amitié pour quarante ans.'\n\nLa dallah (pot à café traditionnel) et le finjan sont des symboles culturels de générosité. L'UNESCO a reconnu le café arabe comme patrimoine culturel immatériel de l'humanité en 2015.",
+        "sources": [
+          { "name": "UNESCO", "url": "https://ich.unesco.org/en/RL/arabic-coffee-a-symbol-of-generosity-02111" },
+          { "name": "Al Jazeera", "url": "https://www.aljazeera.com/video/al-jazeera-world/2021/2/17/secrets-of-the-arab-cafe" }
+        ]
+      },
+      {
+        "id": "thobe",
+        "title": "Le Thobe — Robe Traditionnelle",
+        "emoji": "👗",
+        "short": "Le thobe palestinien est bien plus qu'un vêtement — chaque motif brodé raconte une histoire d'origine villageoise et d'identité nationale.",
+        "content": "Le thobe est la robe brodée traditionnelle des femmes palestiniennes, un puissant symbole d'identité et de résistance. Chaque région de la Palestine historique a des styles de broderie distincts : Ramallah est connue pour sa broderie rouge sur tissu blanc, Bethléem pour sa robe en soie blanche aux motifs géométriques, et Gaza pour son tissu teint à l'indigo.\n\nAprès la Nakba de 1948, le thobe a pris une signification politique nouvelle. Les femmes déplacées portaient dans leurs thobes une preuve matérielle de leurs villages et de leur patrimoine en exil. Pendant la Première Intifada (1987), les femmes ont brodé des drapeaux et des cartes palestiniens sur leurs robes après qu'Israël a interdit l'affichage public des symboles nationaux.\n\nAujourd'hui, une nouvelle génération de créateurs palestiniens revitalise le thobe, mêlant le tatreez traditionnel à la mode contemporaine.",
+        "sources": [
+          { "name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2018/12/16/rashida-tlaib-to-wear-palestinian-dress-at-us-congress-swear-in" },
+          { "name": "TRT World", "url": "https://www.trtworld.com/magazine/the-palestinian-thobe-a-creative-expression-of-national-identity-57082" }
+        ]
+      },
+      {
+        "id": "pottery",
+        "title": "Poterie & Verrerie",
+        "emoji": "🏺",
+        "short": "Les industries du verre et de la poterie à Hébron prospèrent depuis des siècles, préservant des techniques transmises de génération en génération.",
+        "content": "Hébron (Al-Khalil) est un centre de verrerie depuis l'époque romaine, avec un 'Quartier des Souffleurs de Verre' (Haret Kezazin) dans la vieille ville. Les Phéniciens ont apporté la verrerie à Hébron vers 50 av. J.-C., et pendant la période mamelouke, le verre d'Hébron était exporté dans tout le Moyen-Orient.\n\nLa famille Natsheh exploite son usine de verre depuis 1890, perpétuant la tradition du soufflage à la main. En 1962, la famille s'est étendue à la céramique, produisant des poteries peintes à la main selon des méthodes traditionnelles.\n\nMalgré les défis de l'occupation — postes de contrôle, accès restreint aux matériaux — ces artisans persistent. Plus de 80 % de leurs céramiques sont exportées dans le monde, portant le patrimoine palestinien dans les foyers internationaux.",
+        "sources": [
+          { "name": "Al Jazeera", "url": "https://www.aljazeera.com/gallery/2015/9/1/growing-the-traditional-art-of-palestinian-ceramics" },
+          { "name": "Middle East Eye", "url": "https://www.middleeasteye.net/features/despite-hurdles-hebron-glass-makers-keep-kiln-fires-burning" }
+        ]
+      },
+      {
+        "id": "cinema",
+        "title": "Cinéma & Arts Visuels",
+        "emoji": "🎬",
+        "short": "Le cinéma palestinien est devenu une force narrative puissante, les cinéastes remportant une reconnaissance internationale et portant les récits palestiniens au public mondial.",
+        "content": "Le cinéma palestinien est passé de modestes débuts à une industrie internationalement reconnue. Le premier film palestinien était un documentaire muet en 1935. Le Cinéma Alhambra à Jaffa, construit en 1937, était la plus grande salle de cinéma du Moyen-Orient à l'époque.\n\nAujourd'hui, les cinéastes palestiniens ont obtenu des succès remarquables. Les films d'Elia Suleiman ont remporté des prix à Cannes. 'Paradise Now' (2005) a été nominé aux Oscars, et 'Omar' (2013) a valu à la Palestine sa première nomination aux Oscars. Des réalisateurs comme Cherien Dabis, Scandar Copti et Annemarie Jacir continuent de briser les barrières.\n\nLe festival Palestine Cinema Days, organisé chaque année dans sept villes palestiniennes, présente des films locaux et internationaux et accorde des subventions de production aux cinéastes palestiniens émergents.",
+        "sources": [
+          { "name": "Al Jazeera", "url": "https://www.aljazeera.com/features/2009/9/28/interview-palestinian-cinema" },
+          { "name": "Al Jazeera", "url": "https://www.aljazeera.com/features/2022/11/10/palestine-cinema-days-film-festival-2022" }
+        ]
+      },
+      {
+        "id": "hikaye",
+        "title": "Conte Oral — Al-Hikaye",
+        "emoji": "📖",
+        "short": "Le Hikaye palestinien, reconnu par l'UNESCO comme patrimoine culturel immatériel, est une tradition de contes populaires oraux narrés par les femmes.",
+        "content": "Al-Hikaye est une forme de littérature orale unique à la Palestine, interprétée principalement par des femmes âgées qui se réunissent avec des femmes plus jeunes et des enfants lors des soirées d'hiver pour raconter des contes éducatifs. Reconnue par l'UNESCO en 2005 comme chef-d'œuvre du patrimoine oral et immatériel de l'humanité.\n\nLes contes sont narrés en dialecte palestinien (fallahi ou madani) avec des tons expressifs et des inflexions vocales. Ils abordent des questions sociales, les dynamiques familiales et offrent un commentaire social aigu du point de vue des femmes.\n\nLa collection définitive 'Speak, Bird, Speak Again' (1989), compilée par Ibrahim Muhawi et Sharif Kanaana, préserve 45 contes recueillis en Galilée, Cisjordanie et Gaza. Aujourd'hui, la tradition décline face aux médias de masse, mais les efforts pour la revitaliser se poursuivent.",
+        "sources": [
+          { "name": "UNESCO", "url": "https://ich.unesco.org/en/RL/palestinian-hikaye-00124" },
+          { "name": "UC Press", "url": "https://www.ucpress.edu/books/speak-bird-speak-again/epub-pdf" }
+        ]
+      }
+    ]
+  },
+  "activism": {
+    "title": "Agir",
+    "subtitle": "Moyens concrets de soutenir les droits palestiniens, fournir une aide humanitaire et plaider pour la justice.",
+    "organizations": {
+      "title": "Organisations Humanitaires Vérifiées",
+      "list": [
+        {
+          "name": "Croissant-Rouge Palestinien (PRCS)",
+          "url": "https://www.palestinercs.org/",
+          "desc": "Fournit des services médicaux d'urgence, des ambulances et des soins de santé dans toute la Palestine."
+        },
+        {
+          "name": "UNRWA",
+          "url": "https://www.unrwa.org/donate",
+          "desc": "L'agence des Nations Unies fournissant éducation, soins de santé et services sociaux à plus de 5,9 millions de réfugiés palestiniens."
+        },
+        {
+          "name": "Flottille Mondiale Sumud",
+          "url": "https://globalsumudflotilla.org",
+          "desc": "Une coalition maritime populaire défiant le blocus illégal de Gaza et livrant de l'aide humanitaire par voie maritime."
+        },
+        {
+          "name": "Medical Aid for Palestinians (MAP)",
+          "url": "https://www.map.org.uk/",
+          "desc": "Association caritative britannique fournissant des soins de santé et médicaux aux Palestiniens, avec un accent sur Gaza, la Cisjordanie et les camps de réfugiés au Liban."
+        },
+        {
+          "name": "UNRWA USA",
+          "url": "https://www.unrwausa.org/",
+          "desc": "La branche américaine de collecte de fonds de l'UNRWA, soutenant l'éducation, la santé et les services de secours pour les réfugiés palestiniens. Déductible d'impôt pour les donateurs américains."
+        },
+        {
+          "name": "Jewish Voice for Peace (JVP)",
+          "url": "https://www.jewishvoiceforpeace.org/",
+          "desc": "Organisation juive populaire américaine œuvrant pour la paix, l'égalité et les droits humains pour tous les Palestiniens et Israéliens. JVP plaide pour la fin de l'occupation et les droits palestiniens."
+        },
+        {
+          "name": "IfNotNow",
+          "url": "https://www.ifnotnowmovement.org/",
+          "desc": "Mouvement juif américain luttant pour mettre fin au soutien américain à l'occupation et construire un avenir où Palestiniens et Israéliens vivent en liberté et dignité."
+        },
+        {
+          "name": "Palestine Legal",
+          "url": "https://palestinelegal.org/",
+          "desc": "Organisation juridique américaine qui protège les droits constitutionnels et civils des personnes aux États-Unis qui s'expriment pour la liberté palestinienne. Offre un soutien juridique gratuit."
+        },
+        {
+          "name": "Samidoun",
+          "url": "https://samidoun.net/",
+          "desc": "Réseau international de solidarité soutenant les prisonniers palestiniens dans les prisons israéliennes et mobilisant la lutte contre la détention administrative et le système de tribunaux militaires."
+        }
+      ]
+    },
+    "bds": {
+      "title": "Mouvement BDS (Boycott, Désinvestissement, Sanctions)",
+      "desc": "Le mouvement BDS est une campagne mondiale menée par les Palestiniens pour la liberté, la justice et l'égalité.",
+      "actions": [
+        "Boycott des produits israéliens fabriqués dans les colonies illégales",
+        "Désinvestissement des entreprises complices de l'occupation",
+        "Soutien au boycott académique et culturel des institutions israéliennes",
+        "Exiger de vos représentants le soutien aux sanctions et à l'embargo sur les armes",
+        "Éviter les produits de Caterpillar, HP, Puma et autres entreprises de la liste BDS",
+        "Faire pression sur les institutions culturelles pour annuler les spectacles, expositions et événements en Israël ou sponsorisés par le gouvernement israélien",
+        "Exiger des universités qu'elles désinvestissent leurs dotations des entreprises complices de l'occupation",
+        "Plaider pour un embargo militaire — pousser l'UE, les gouvernements nationaux et l'ONU à cesser toutes les ventes d'armes à Israël",
+        "Soutenir les syndicats palestiniens dans leurs appels au BDS — amplifier leurs déclarations et rejoindre les actions de solidarité",
+        "Boycotter les exportations agricoles israéliennes — dattes, poivrons, herbes, amandes et autres produits des fermes de colonies dans les territoires palestiniens occupés"
+      ],
+      "sources": [
+        {
+          "name": "BDS Movement",
+          "url": "https://bdsmovement.net/"
+        }
+      ]
+    },
+    "digital": {
+      "title": "Boîte à Outils de Plaidoyer Numérique",
+      "desc": "Utilisez votre voix en ligne pour amplifier les récits palestiniens :",
+      "tips": [
+        "Partagez des informations vérifiées de sources réputées",
+        "Utilisez les hashtags #FreePalestine, #Gaza, #Palestine",
+        "Corrigez la désinformation lorsque vous la voyez",
+        "Suivez et amplifiez les journalistes et artistes palestiniens",
+        "Écrivez à vos représentants élus exigeant un cessez-le-feu",
+        "Créez et partagez des infographies éducatives, des vidéos courtes et du contenu visuel sur TikTok, Instagram Reels et YouTube Shorts pour toucher un public plus large",
+        "Rejoignez les Twitter Spaces, les salles Clubhouse et les enseignements virtuels organisés par les défenseurs des droits palestiniens pour apprendre et échanger en temps réel",
+        "Signalez la désinformation et les discours de haine pro-occupation sur les réseaux sociaux en utilisant les outils de signalement pour limiter leur amplification algorithmique",
+        "Abonnez-vous aux newsletters des médias palestiniens et des organisations de droits humains (Al Jazeera, +972 Magazine, Amnesty International) pour rester informé"
+      ]
+    },
+    "boycott": {
+      "title": "Liste de Boycott",
+      "desc": "Entreprises complices des violations des droits palestiniens :",
+      "items": [
+        "Caterpillar — fournit les bulldozers utilisés pour démolir les maisons palestiniennes",
+        "HP — systèmes biométriques pour les points de contrôle",
+        "Puma — sponsorise l'équipe israélienne incluant des colonies illégales",
+        "Sabra / Strauss — houmous produit dans le Golan occupé",
+        "Ahava — cosmétiques produits dans une colonie illégale",
+        "AXA — investit dans des entreprises fournissant le mur et les colonies",
+        "Carrefour — magasins dans les colonies illégales",
+        "Booking.com — annonces dans les colonies illégales",
+        "Pillsbury / Häagen-Dazs — via sa société mère, possède des marques fabriquant en territoire occupé ; la franchise Häagen-Dazs dans la colonie d'Ariel fait l'objet d'appels au boycott",
+        "Sodastream — exploitait une usine dans la colonie de Mishor Adumim en Cisjordanie jusqu'en 2015 ; fait toujours face à des appels au boycott pour sa complicité passée",
+        "Airbnb — annonce des propriétés dans les colonies israéliennes illégales en Cisjordanie, profitant de l'économie de l'occupation",
+        "Intel — via sa filiale Mobileye, fournit des technologies de conduite autonome et de surveillance à l'armée israélienne, utilisées dans les territoires palestiniens occupés",
+        "Expedia Group — via ses marques (Expedia, Hotels.com, Vrbo), annonce des hébergements dans les colonies illégales en Cisjordanie"
+      ],
+      "note": "Consultez toujours bdsmovement.net pour la liste la plus récente.",
+      "sources": [
+        {
+          "name": "BDS Movement",
+          "url": "https://bdsmovement.net/"
+        },
+        {
+          "name": "Who Profits",
+          "url": "https://www.whoprofits.org/"
+        }
+      ]
+    }
+  },
+  "voices": {
+    "title": "Voix de Palestine",
+    "subtitle": "Les histoires, poèmes et témoignages qui témoignent de l'existence et de la résilience palestiniennes.",
+    "quotes": [
+      {
+        "text": "Nous avons sur cette terre ce qui rend la vie digne d'être vécue : l'hésitation d'avril, l'arôme du pain à l'aube, l'opinion d'une femme sur les hommes, les écrits d'Eschyle, le début de l'amour, l'herbe sur une pierre, des mères debout sur un fil de flûte, et la peur des souvenirs chez les envahisseurs.",
+        "author": "Mahmoud Darwich",
+        "attribution": "Poète palestinien (1941–2008)",
+        "sources": [
+          {
+            "name": "Poetry Foundation",
+            "url": "https://www.poetryfoundation.org/poets/mahmoud-darwish"
+          }
+        ]
+      },
+      {
+        "text": "La clé est la chose la plus importante. Garde-la. Accroche-t'y. C'est la clé de notre maison. Un jour, la clé nous ramènera chez nous.",
+        "author": "Proverbe palestinien",
+        "attribution": "Transmis de génération en génération depuis 1948",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/author/laila_elhaddad_201092711487115"
+          }
+        ]
+      },
+      {
+        "text": "Nous ne sommes pas des chiffres. Nous sommes des gens avec des rêves, des familles, des histoires. Nous voulons vivre libres et dignes comme tous les autres peuples.",
+        "author": "Laila El-Haddad",
+        "attribution": "Auteure et journaliste palestinienne",
+        "sources": [
+          {
+            "name": "Poetry Foundation",
+            "url": "https://www.poetryfoundation.org/poets/mahmoud-darwish"
+          }
+        ]
+      },
+      {
+        "text": "Si les oliviers connaissaient les mains qui les ont plantés, leur huile deviendrait des larmes.",
+        "author": "Mahmoud Darwich",
+        "attribution": "Poète palestinien (1941–2008)",
+        "sources": [
+          {
+            "name": "UNRWA",
+            "url": "https://www.unrwa.org/palestine-refugees"
+          }
+        ]
+      },
+      {
+        "text": "Je viens de là. Je suis d'ici. Je ne suis ni là ni ici. J'ai deux noms, deux langues, deux identités. J'ai beaucoup de questions sans réponses.",
+        "author": "Mahmoud Darwich",
+        "attribution": "Extrait de 'Je viens de là'",
+        "sources": [
+          {
+            "name": "Poetry Foundation",
+            "url": "https://www.poetryfoundation.org/poets/mahmoud-darwish"
+          }
+        ]
+      },
+      {
+        "text": "Le Palestinien est la seule nation au monde qui sent avec certitude qu'aujourd'hui est meilleur que demain.",
+        "author": "Ghassan Kanafani",
+        "attribution": "Auteur et activiste palestinien (1936–1972)",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/features/2018/7/9/ghassan-kanafani-the-palestinian-novelist-who-dared-to-dream"
+          }
+        ]
+      },
+      {
+        "text": "Si vous avez des larmes, préparez-vous à les verser maintenant. Pas pour les morts, mais pour les vivants qui ont tout perdu et trouvent encore la force de sourire.",
+        "author": "Palestinien anonyme",
+        "attribution": "De Gaza, 2024",
+        "sources": [
+          {
+            "name": "Al Jazeera",
+            "url": "https://www.aljazeera.com/opinions/2023/11/28/sumud-the-palestinian-philosophy-of-steadfastness"
+          }
+        ]
+      },
+      {
+        "text": "Le sumud n'est pas seulement rester. C'est rester et prospérer, rester et planter, rester et apprendre à nos enfants qui nous sommes.",
+        "author": "Muna Haddad",
+        "attribution": "Activiste palestinienne",
+        "sources": []
+      },
+      {
+        "text": "Vous ne pouvez pas continuer à victimiser les gens et vous attendre à ce qu'ils l'acceptent éternellement.",
+        "author": "Edward Said",
+        "attribution": "Critique littéraire, auteur de 'La Question de Palestine' (1935–2003)",
+        "sources": [{ "name": "La Question de Palestine", "url": "https://www.vanderbilt.edu/AnS/english/elit/Theory/SaidSaid.html" }]
+      },
+      {
+        "text": "Aucune cause n'a de sens sans engagement. Les mots sans action sont des coquilles vides.",
+        "author": "Ghassan Kanafani",
+        "attribution": "Romancier et activiste palestinien (1936–1972)",
+        "sources": [{ "name": "Al Jazeera", "url": "https://www.aljazeera.com/features/2018/7/9/ghassan-kanafani-the-palestinian-novelist-who-dared-to-dream" }]
+      },
+      {
+        "text": "J'ai appris que la liberté n'est pas un don offert par le fort au faible. C'est un droit inné, sculpté par la volonté, enduré par la souffrance, et revendiqué par ceux qui refusent d'être effacés.",
+        "author": "Fadwa Tuqan",
+        "attribution": "Poétesse palestinienne, auteure de 'Un voyage montagneux' (1917–2003)",
+        "sources": [{ "name": "Poetry Foundation", "url": "https://www.poetryfoundation.org/poets/fadwa-tuqan" }]
+      },
+      {
+        "text": "La liberté ne se donne pas, elle se prend. Personne ne vous donne la liberté. Vous devez vous battre et lutter pour elle.",
+        "author": "Leila Khaled",
+        "attribution": "Révolutionnaire palestinienne, de 'Mon peuple vivra' (1973)",
+        "sources": [{ "name": "The Guardian", "url": "https://www.theguardian.com/world/2001/jan/27/israel1" }]
+      },
+      {
+        "text": "Le sumud n'est pas simplement l'endurance. C'est une décision quotidienne, active et consciente de rester — planter, écrire, aimer, exister — en dépit de ceux qui voudraient nous effacer.",
+        "author": "Susan Abulhawa",
+        "attribution": "Romancière palestinienne, auteure de 'Le Matin en Jenin'",
+        "sources": [{ "name": "Susan Abulhawa", "url": "https://www.susanabulhawa.com/" }]
+      },
+      {
+        "text": "L'identité palestinienne n'est pas une invention récente. Elle est ancrée dans des siècles d'habitation continue, de culture et d'attachement à cette terre — bien avant les conflits modernes qui ont cherché à la nier.",
+        "author": "Rashid Khalidi",
+        "attribution": "Historien, auteur de 'L'Identité palestinienne'",
+        "sources": [{ "name": "Columbia University Press", "url": "https://cup.columbia.edu/book/palestinian-identity/9780231150749" }]
+      },
+      {
+        "text": "Jérusalem. J'appelle mon père. Nous parlons de la ville. Il dit : 'C'est dur d'être une personne n'importe où ces jours-ci.' Je dis : 'C'est peut-être pour ça qu'on doit essayer plus fort.'",
+        "author": "Naomi Shihab Nye",
+        "attribution": "Poétesse palestino-américaine, de '19 Variétés de Gazelle'",
+        "sources": [{ "name": "Poetry Foundation", "url": "https://www.poetryfoundation.org/poets/naomi-shihab-nye" }]
+      },
+      {
+        "text": "Cheikh Jarrah n'est pas un litige immobilier. C'est un nettoyage ethnique par d'autres moyens — un effacement lent et bureaucratique de la présence palestinienne à Jérusalem.",
+        "author": "Muhammad El-Kurd",
+        "attribution": "Écrivain et activiste palestinien de Cheikh Jarrah",
+        "sources": [{ "name": "The Nation", "url": "https://www.thenation.com/authors/muhammad-el-kurd/" }]
+      },
+      {
+        "text": "Le récit palestinien n'est pas une histoire de victimisation — c'est une histoire de résilience et de détermination. Nous sommes un peuple avec une histoire, une culture, des droits et une volonté inébranlable d'être libres.",
+        "author": "Ibrahim Abu-Lughod",
+        "attribution": "Académicien et intellectuel palestinien (1929–2001)",
+        "sources": [{ "name": "Institute for Palestine Studies", "url": "https://www.palestine-studies.org/en/node/1646134" }]
+      },
+      {
+        "text": "Le peuple palestinien n'a pas disparu en un clin d'œil. Nous sommes toujours là, écrivant, résistant, rêvant d'un monde où la justice n'est pas un privilège mais un droit.",
+        "author": "Remi Kanazi",
+        "attribution": "Poète et écrivain palestino-américain",
+        "sources": [{ "name": "Remi Kanazi", "url": "https://remikanazi.com/" }]
+      }
+    ],
+    "testimonies": {
+      "title": "Témoignages",
+      "items": [
+        {
+          "title": "La Clé du Retour",
+          "text": "Ma grand-mère a toujours la clé de notre maison à Jaffa. Elle la garde enveloppée dans un tissu, accrochée au-dessus de son lit. Elle a 94 ans maintenant, et sa mémoire s'efface — mais elle n'oublie jamais la clé. 'Ceci,' dit-elle, 'est mon billet de retour.' Nous avons été chassés en 1948, et nous attendons depuis.",
+          "sources": [
+            {
+              "name": "UNRWA",
+              "url": "https://www.unrwa.org/palestine-refugees"
+            }
+          ]
+        },
+        {
+          "title": "Récolte des Olives sous Occupation",
+          "text": "Chaque octobre, ma famille retourne à notre oliveraie près de Naplouse. Nous entretenons ces arbres depuis des générations — ils ont été plantés par mon arrière-grand-père. Mais maintenant, nous devons coordonner notre récolte avec l'armée israélienne. Nous continuons. Nous n'abandonnerons jamais nos arbres.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/features/2023/10/20/palestinian-olive-harvest-under-occupation"
+            }
+          ]
+        },
+        {
+          "title": "Un Enfant à Gaza",
+          "text": "Je suis né à Gaza en 2006. Je n'ai connu que le blocus, la guerre et la pénurie. J'ai vécu quatre guerres majeures. J'ai perdu des amis, des voisins et mon école. Mais j'ai aussi appris que nous sommes plus forts qu'ils ne le pensent. Gaza m'a appris que la vie trouve toujours un chemin.",
+          "sources": [
+            {
+              "name": "UN OCHA",
+              "url": "https://www.ochaopt.org/"
+            }
+          ]
+        },
+        {
+          "title": "Chatila : Le Camp Qui Refuse de Mourir",
+          "text": "Le camp de Chatila à Beyrouth a été établi en 1949 pour les réfugiés du nord de la Palestine. Je suis la quatrième génération née ici. Le camp est exigu, les bâtiments s'effritent, les eaux usées coulent dans les rues. Mais à l'intérieur de ces ruelles étroites, nous avons construit un monde. Ma grand-mère a décrit le massacre de 1982. Mais elle m'a aussi appris que Chatila représente quelque chose de plus : le refus de disparaître. Chaque enfant né ici est une promesse : nous reviendrons.",
+          "sources": [
+            {
+              "name": "UNRWA",
+              "url": "https://www.unrwa.org/where-we-work/lebanon"
+            }
+          ]
+        },
+        {
+          "title": "Journaliste à Gaza : Le Poids du Témoignage",
+          "text": "Couvrir Gaza en tant que journaliste signifie vivre dans un état de peur constante — pas seulement pour vous-même, mais pour tous ceux qui vous entourent. Le bourdonnement des drones ne s'arrête jamais. Les bombardements sont incessants. Les journalistes de Gaza ne se contentent pas de rapporter l'histoire — ils la vivent, et ils refusent que le monde se taise.",
+          "sources": [
+            {
+              "name": "CPJ",
+              "url": "https://cpj.org/mideast/palestine/"
+            }
+          ]
+        },
+        {
+          "title": "Un Médecin à Al-Shifa : La Médecine Sous Siège",
+          "text": "Je suis chirurgien à l'hôpital Al-Shifa de Gaza. Nous opérons avec des générateurs, des stocks qui s'épuisent, des blessures que je n'avais jamais vues durant ma formation. Des enfants blessés par des éclats d'obus. Des familles entières amenées ensemble. Nous travaillons sans sommeil, sans assez de médicaments, sans eau. Mais nous ne pouvons pas nous arrêter. Chaque vie sauvée est une victoire contre ceux qui cherchent à nous détruire.",
+          "sources": [
+            {
+              "name": "MSF",
+              "url": "https://www.msf.org/palestine"
+            }
+          ]
+        },
+        {
+          "title": "Un Palestinien dans sa Patrie : Citoyen, Mais Pas Égal",
+          "text": "Je suis un citoyen palestinien d'Israël. Je possède un passeport israélien, j'étudie dans des universités israéliennes et je parle couramment l'hébreu. Mais je suis traité comme un citoyen de seconde zone dans ma propre patrie. La loi définit Israël comme un État juif — et cette définition signifie que je serai toujours un étranger. Le sumud pour nous signifie rester, exiger l'égalité et ne jamais les laisser oublier que la Palestine appartient à tous ceux qui ont vécu sur cette terre.",
+          "sources": [
+            {
+              "name": "Adalah",
+              "url": "https://www.adalah.org/en"
+            }
+          ]
+        },
+        {
+          "title": "Éducation Interrompue : Un Étudiant au Point de Contrôle",
+          "text": "Chaque matin, je me lève à 4 heures pour rejoindre mon université à Ramallah depuis notre village près de Qalqilya. Il y a trois points de contrôle sur le chemin. Parfois, les soldats me retardent des heures. Parfois, je suis refoulé. Le système de permis contrôle chaque aspect de ma vie. Mais je refuse d'abandonner. L'éducation est notre avenir, et aucun point de contrôle ne me la prendra. J'obtiendrai mon diplôme — non pas malgré l'occupation, mais en dépit d'elle.",
+          "sources": [
+            {
+              "name": "HRW",
+              "url": "https://www.hrw.org/report/2018/05/14/checkpoint-where-we-are/restrictions-palestinian-students-movement-west-bank"
+            }
+          ]
+        },
+        {
+          "title": "La Diaspora : Une Patrie Portée dans le Cœur",
+          "text": "Je suis né à Chicago d'un père palestinien qui a quitté Haïfa en 1948. Je n'ai jamais vu la Palestine, mais la Palestine ne m'a jamais quitté. Mon père décrivait les orangeraies de Jaffa, le parfum de la mer, le goût de la maqlouba de sa mère. Quand j'ai visité la Cisjordanie pour la première fois à 25 ans, j'ai pleuré — non de tristesse, mais de ce sentiment accablant de reconnaissance. La Palestine n'est pas seulement un endroit sur une carte. C'est un héritage vivant, porté dans la mémoire, les recettes, les chansons, et le sumud de chaque Palestinien, où qu'il soit.",
+          "sources": [
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/features/2023/5/15/the-palestinian-diaspora-a-history-of-displacement-and-resilience"
+            }
+          ]
+        }
+      ]
+    }
+  },
+    "boycott": {
+      "title": "Guide de Boycott et Désinvestissement",
+      "subtitle": "Une liste continuellement mise à jour des entreprises complices de violations des droits palestiniens, avec des sources vérifiées et des mesures concrètes.",
+      "desc": "Les entreprises suivantes sont documentées comme tirant profit ou étant complices de violations des droits palestiniens :",
+      "items": [
+        "Caterpillar — supplies bulldozers (D9) used by the Israeli military to demolish Palestinian homes, as documented by HRW",
+        "HP — provides biometric identification systems used at checkpoints and surveillance technology to the occupation authorities",
+        "Puma — sponsors the Israel Football Association, which includes teams based in illegal settlements in the occupied West Bank",
+        "Sabra / Strauss — hummus brand produced in the occupied Golan Heights settlement industrial zone",
+        "Ahava — cosmetics brand manufactured in the Mitzpe Shalem settlement in the occupied West Bank",
+        "AXA — French insurance giant that invests in companies supplying the separation wall and Israeli defense contractors",
+        "Carrefour — French supermarket chain that opened franchises in illegal settlements in the West Bank",
+        "Booking.com — lists accommodations in illegal Israeli settlements in the occupied West Bank",
+        "Pillsbury / Häagen-Dazs — through its parent company, owns brands with manufacturing presence in occupied territory; Häagen-Dazs franchise in the Ariel settlement has been subject to BDS calls",
+        "Sodastream — operated a major manufacturing facility in the Mishor Adumim settlement in the occupied West Bank until 2015; continues to face boycott calls for its past complicity in the settlement economy",
+        "Airbnb — lists properties in illegal Israeli settlements in the occupied West Bank, profiting from and normalizing the occupation economy",
+        "Intel — through its subsidiary Mobileye, provides autonomous driving and surveillance technology to the Israeli military, used in occupied Palestinian territories",
+        "Expedia Group — through its brands (Expedia, Hotels.com, Vrbo), lists accommodations in illegal settlements in the occupied West Bank"
+      ],
+      "note": "Consultez toujours les dernières directives BDS sur bdsmovement.net pour la liste de boycott la plus récente et vérifiée.",
+      "sources": [
+        { "name": "BDS Movement", "url": "https://bdsmovement.net/" },
+        { "name": "Who Profits", "url": "https://www.whoprofits.org/" }
+      ],
+      "takeAction": "Agir",
+      "cta": "Visiter BDS Movement"
+    },
+    "hindRajab": {
+      "title": "Hind Rajab",
+      "subtitle": "L'histoire d'une fillette de six ans tuée à Gaza — et le film qui garantit que le monde se souvienne de son nom.",
+      "section1Title": "Qui était Hind Rajab ?",
+      "section1Desc": "Hind Rajab était une fillette palestinienne de six ans de la ville de Gaza. Le 29 janvier 2024, elle a été tuée avec six membres de sa famille lorsque la voiture dans laquelle ils fuyaient a été touchée par des tirs de char israéliens. Ses dernières heures ont été passées piégée dans le véhicule, entourée des corps de sa famille, parlant au téléphone avec les répartiteurs du Croissant-Rouge palestinien qui tentaient désespérément de coordonner les secours — jusqu'à ce que la ligne devienne silencieuse.\n\nSon histoire est devenue un symbole du tribut humain de la guerre de Gaza, non seulement à cause des circonstances dévastatrices de sa mort, mais parce que le monde a entendu sa voix dans ces derniers instants — une voix qui ne pouvait être ignorée.",
+      "filmTitle": "La Voix de Hind Rajab",
+      "filmDesc": "Un film documentaire qui raconte l'histoire des dernières heures de Hind Rajab et des secouristes qui ont tout risqué pour la rejoindre. Le film témoigne du coût humain de la guerre et garantit que le nom de Hind — et les noms de tous les enfants tués à Gaza — ne soient pas oubliés.",
+      "filmNote": "Le film contient un contenu troublant. La discrétion du spectateur est conseillée.",
+      "filmFree": "Regarder Gratuitement (Non Officiel)",
+      "filmFreeNote": "⚠️ Ce flux contient de nombreuses publicités. Utilisez un bloqueur de publicités avant de regarder.",
+      "sources": [
+        { "name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2024/2/10/hind-rajab-six-year-old-girl-killed-in-gaza-what-we-know" },
+        { "name": "The Guardian", "url": "https://www.theguardian.com/world/2024/feb/10/hind-rajab-gaza-six-year-old-girl-killed" },
+        { "name": "UN", "url": "https://www.un.org/unispal/" }
+      ],
+      "label": "témoigner de l'histoire"
+    },
+  "footer": {
+    "credit": "Construit avec ❤️ en solidarité avec la Palestine.",
+    "disclaimer": "Toutes les informations proviennent d'organisations réputées : Al Jazeera, ONU, Amnesty International et Human Rights Watch.",
+    "rights": "Palestine Libre. Tous droits réservés au peuple palestinien.",
+    "attribution": "sejed.dev"
+  },
+  "notFound": {
+    "title": "Page Introuvable",
+    "desc": "Cette page n'existe pas. Revenez pour découvrir la Palestine.",
+    "cta": "Retour à l'Accueil"
+  },
+  "sourcesPage": {
+    "title": "Dernières Nouvelles",
+    "subtitle": "Actualités et analyses sélectionnées des médias indépendants — actualisées à chaque construction.",
+    "search": "Rechercher par mot-clé...",
+    "allSources": "Toutes les sources",
+    "showMore": "Voir plus",
+    "noResults": "Aucun résultat pour \"{query}\"",
+    "noContent": "Aucun contenu disponible pour ce sujet en {locale}.",
+    "refresh": "Les actualités sont récupérées à la construction — actualisez la page pour voir les dernières mises à jour.",
+    "error": "Erreur",
+    "loading": "Chargement..."
+  },
+  "timeline": {
+    "label": "chronique",
+    "title": "Chronologie",
+    "subtitle": "Un voyage chronologique à travers l'histoire palestinienne, de l'ancienne Canaan à nos jours.",
+    "readMore": "Lire plus",
+    "showLess": "Afficher moins"
+  },
+  "common": {
+    "loading": "Chargement...",
+    "readMore": "Lire la suite",
+    "close": "Fermer",
+    "learnMore": "En savoir plus",
+    "donate": "Faire un don",
+    "viewAll": "Voir tout",
+    "sources": "Sources",
+    "source": "Source",
+    "top": "Retour en Haut",
+    "more": "Plus",
+    "copyLink": "Copier le Lien",
+    "closeMenu": "Fermer le Menu",
+    "resources": "Ressources"
+  }
+}
